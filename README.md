@@ -9,7 +9,7 @@ Repositório do Projeto realizado no Curso: `Flutter: Aplicando Constraints e la
 - `CustomList e Grid`: Como criar ListViews customizadas e como criar Grids;
 - `Layouts Portraits e Landscapes`: Como construir telas responsivas baseada na orientação do dispositivo;
 
-
+ 
 ## 🔨 Projeto: Ristorante Panucci
 
 O projeto do curso era criar 4 telas estilizada de um aplicativo de menu de um restaurantes fictício chamado Ristorante Panucci.
